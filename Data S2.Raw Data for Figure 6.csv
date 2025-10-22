@@ -1,0 +1,29 @@
+Strategy,Criterion,Score ,Rationale,References
+Artificial Reef Structures,Cost Impact,9,"Requires high capital for materials, deployment, and long-term maintenance.",Anthony et al. 2008; Duarte et al. 2013
+,Feasibility,7,Widely trialed in coral reef restoration with proven short-term success.,Anthony et al. 2008
+CO2 Emission Reduction,Cost Impact,9,High global economic cost of transitioning energy systems and industries.,IPCC 2019; Friedlingstein et al. 2022
+,Feasibility,7,Requires international political will and coordinated action.,Gattuso et al. 2015
+Coastal Pollution Control,Cost Impact,6,Moderate infrastructure and wastewater treatment costs at regional level.,Cai et al. 2011
+,Feasibility,6,Proven in several estuarine systems; requires governance capacity.,Breitburg et al. 2018
+Ecosystem-Based Fisheries Management (EBFM),Cost Impact,8,"Requires strong enforcement and monitoring, but relatively cheaper than engineered solutions.",Waldbusser & Salisbury 2014
+,Feasibility,6,Implemented globally with mixed success depending on governance.,Branch et al. 2013
+Enhanced Chemical Weathering (ECW),Cost Impact,10,"Large-scale mining, grinding, and dispersal of silicate materials are very costly.",Oschlies et al. 2023
+,Feasibility,4,Still experimental with uncertain ecological side effects.,Butenschön et al. 2021
+Enhanced Terrestrial Weathering,Cost Impact,5,Costs partly offset as by-product of agriculture or land use practices.,Oschlies et al. 2023
+,Feasibility,4,Requires large land areas; ecological and logistical limits.,Duarte et al. 2013
+Hybridisation for OA Resilience,Cost Impact,8,Requires long-term hatchery and genetic research investments.,Kapsenberg et al. 2022
+,Feasibility,6,Early success in oysters and mussels but still experimental.,Barton et al. 2015
+Integrated Multi-Trophic Aquaculture (IMTA),Cost Impact,7,"Infrastructure-intensive, though partially offset by revenue from co-products.",Waldbusser & Salisbury 2014
+,Feasibility,7,Proven in Asia and Europe; requires regulatory approval.,Barton et al. 2015
+Marine Protected Areas (MPAs),Cost Impact,9,"High enforcement and monitoring costs, especially offshore.",Gattuso et al. 2015
+,Feasibility,8,Widely implemented globally; proven ecological benefits.,Duarte et al. 2013
+Monitoring & Early Warning Systems,Cost Impact,6,"Requires sensors, buoys, satellites, but decreasing costs with new tech.",Rosenau et al. 2021
+,Feasibility,7,"Operational in US, Canada, Norway; replicable in India.",Moran et al. 2022
+Ocean Alkalinity Enhancement (OAE),Cost Impact,9,Large-scale material handling and deployment costs.,Oschlies et al. 2023
+,Feasibility,5,Still conceptual; potential ecological risks.,Butenschön et al. 2021
+Seagrass & Algae Restoration,Cost Impact,7,Moderate costs; requires labor-intensive planting and monitoring.,Duarte et al. 2013
+,Feasibility,8,Numerous successful trials; scalable in shallow coastal systems.,Pendleton et al. 2019
+Selective Breeding,Cost Impact,8,High upfront R&D and hatchery infrastructure required.,Barton et al. 2015
+,Feasibility,8,Proven in oyster hatcheries (Pacific Northwest) and mussels.,Barton et al. 2015; Kapsenberg et al. 2022
+Shell Reef Restoration,Cost Impact,6,Costs moderate but require long-term ecological maintenance.,Anthony et al. 2008
+,Feasibility,5,"Effective at small scale, limited by local ecological context.",Duarte et al. 2013
